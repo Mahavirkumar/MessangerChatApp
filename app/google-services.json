@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "360267076505",
+    "project_id": "messanger-cad9c",
+    "storage_bucket": "messanger-cad9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360267076505:android:cdfa498267b645839df908",
+        "android_client_info": {
+          "package_name": "com.development.messangerchatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360267076505-c8k20kvn8ii4nhn31uh43qauj11lmh4n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR64mSHA7V06KdjzjtqEMUgSpCFWF-gIA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360267076505-c8k20kvn8ii4nhn31uh43qauj11lmh4n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
